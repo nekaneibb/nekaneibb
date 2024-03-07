@@ -23,7 +23,7 @@ Me encantaría colaborar en proyectos frontend que utilicen React o Vue, y estoy
 
 ## 💬 Contáctame
 
-Si estás interesada/o en colaborar en un proyecto, tienes alguna pregunta o simplemente quieres charlar sobre desarrollo frontend, no dudes en contactarme a través de [mi email](mailto:nekane.ibarluzea@gmail.com) o [https://www.linkedin.com/in/nekane-ibarlucea/].
+Si estás interesada/o en colaborar en un proyecto, tienes alguna pregunta o simplemente quieres charlar sobre desarrollo frontend, no dudes en contactarme a través de [mi email](mailto:nekane.ibarluzea@gmail.com) o [Linkedin](https://www.linkedin.com/in/nekane-ibarlucea/).
 
 ## 📫 Más sobre mí
 
