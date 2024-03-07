@@ -9,9 +9,9 @@ Aquí encontrarás una variedad de proyectos en los que he estado trabajando:
 
  <ul>
                 <li><a href="https://nekaneib.github.io/project01_cute-baby-abducer/">Project 1: Cute baby-abducter</a></li>
+               <li><a href="https://github.com/nekaneibb/Tic-Tac-Toe">Project 2: Tic-Tac-Toe</a></li>
             </ul>
-- [Proyecto 2](enlace al proyecto 2): Breve descripción del proyecto.
-- [Proyecto 3](enlace al proyecto 3): Breve descripción del proyecto.
+
 
 ## 🌱 Actualmente estoy aprendiendo
 
@@ -23,7 +23,7 @@ Me encantaría colaborar en proyectos frontend que utilicen React o Vue, y estoy
 
 ## 💬 Contáctame
 
-Si estás interesada/o en colaborar en un proyecto, tienes alguna pregunta o simplemente quieres charlar sobre desarrollo frontend, no dudes en contactarme a través de [mi email](mailto:nekane.ibarluzea@gmail.com) o [(https://www.linkedin.com/in/nekane-ibarlucea/)].
+Si estás interesada/o en colaborar en un proyecto, tienes alguna pregunta o simplemente quieres charlar sobre desarrollo frontend, no dudes en contactarme a través de [mi email](mailto:nekane.ibarluzea@gmail.com) o [https://www.linkedin.com/in/nekane-ibarlucea/].
 
 ## 📫 Más sobre mí
 
