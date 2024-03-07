@@ -1,4 +1,4 @@
-# ¡Hola, soy Nekane! 👋
+# ¡Hello World! 👋
 
 ¡Bienvenida/o a mi perfil de GitHub! Soy Nekane, programadora frontend apasionada por la creación de experiencias web dinámicas y atractivas. 
 Tengo experiencia en el desarrollo de aplicaciones utilizando tecnologías como React y Vue.
