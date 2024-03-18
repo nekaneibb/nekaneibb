@@ -10,6 +10,8 @@ Aquí encontrarás una variedad de proyectos en los que he estado trabajando:
  <ul>
                 <li><a href="https://nekaneib.github.io/project01_cute-baby-abducer/">Project 1: Cute baby-abducter</a></li>
                <li><a href="https://github.com/nekaneibb/Tic-Tac-Toe">Project 2: Tic-Tac-Toe</a></li>
+               <li><a href="https://github.com/nekaneibb/investment-calculator">Project 3: Investment Calculator </a></li>
+              <li><a href="https://github.com/nekaneibb/Project-Management">Project 4: Project Management</a></li>
             </ul>
 
 
